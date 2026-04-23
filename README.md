@@ -1,1 +1,4 @@
-# health-care-AI
+HEALTHCARE AI
+Muskan AI is an interactive, chatbot-based health coach built using HTML, CSS, JavaScript, and jQuery. It guides users through a step-by-step conversation to collect details like age, gender, height, weight, fitness goals, and activity level, then generates a personalized health plan.
+The app provides BMI analysis, ideal weight range, and daily calorie estimation, along with a customized diet plan (Indian-friendly meals), workout routine (sets, reps, duration), yoga suggestions, hydration tracker, and daily/weekly routine guidance.
+It features a clean, modern UI with smooth animations, a chat-first experience, and a floating assistant that remains accessible even after the dashboard is generated. The project focuses on usability, simplicity, and simulating a real AI health assistant using only frontend technologies.
